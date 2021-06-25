@@ -112,9 +112,9 @@ body {
         input {
             padding: 0.9375rem;
             outline: none;
-
             border-radius: 5px;
             border: 1px solid #DEDEDE;
+            -webkit-appearance: none;
 
             &::after {
                 content: url(images/icon-error.svg);

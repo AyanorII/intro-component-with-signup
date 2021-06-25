@@ -116,6 +116,7 @@ body * {
   outline: none;
   border-radius: 5px;
   border: 1px solid #DEDEDE;
+  -webkit-appearance: none;
 }
 
 .form form input::after {
