@@ -115,6 +115,8 @@ body {
             border-radius: 5px;
             border: 1px solid #DEDEDE;
             -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
 
             &::after {
                 content: url(images/icon-error.svg);
